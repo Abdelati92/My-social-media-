@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>روابط التواصل</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f4f4f4;
+      padding: 50px;
+    }
+    .social-link {
+      margin: 20px;
+      display: inline-block;
+      text-decoration: none;
+      color: #000;
+    }
+    .social-link img {
+      width: 50px;
+      height: 50px;
+      vertical-align: middle;
+    }
+    .social-link span {
+      margin-right: 10px;
+      font-size: 20px;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>تابعني على مواقع التواصل</h1>
+
+  <a class="social-link" href="https://www.facebook.com/share/16LeKG4nWH/" target="_blank">
+    <span>فيسبوك</span>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook">
+  </a>
+
+  <a class="social-link" href="https://www.instagram.com/ahmedabdelati83?igsh=MWV3aG9henlzZzBjYw==" target="_blank">
+    <span>إنستجرام</span>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram">
+  </a>
+
+  <a class="social-link" href="https://wa.me/201507525710" target="_blank">
+    <span>واتساب</span>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp">
+  </a>
+
+</body>
+</html>
